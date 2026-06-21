@@ -2,20 +2,23 @@
 
 Senior Engineering Project
 
-ESP32-based soil monitoring system using RS485 Modbus RTU communication.
+ESP32-based soil monitoring system using RS485 Modbus RTU communication and an embedded web server.
 
 ## Features
 
-- NPK Monitoring
-- pH Monitoring
-- EC Monitoring
-- Soil Moisture Monitoring
-- Temperature Monitoring
-- Embedded Web Server
-- Captive Portal
-- Data Logging
-- CSV Export
-- Sensor Stability Verification
+7-in-1 Soil Parameter Monitoring
+Nitrogen (N)
+Phosphorus (P)
+Potassium (K)
+pH
+EC
+Soil Moisture
+Temperature
+Embedded Web Server
+Captive Portal
+Data Logging
+CSV Export
+Sensor Stability Verification
 
 ## Dashboard
 
@@ -27,13 +30,9 @@ ESP32-based soil monitoring system using RS485 Modbus RTU communication.
 
 ## Hardware Used
 
-- ESP32
-- RS485 Module
-- NPK Sensor
-- pH Sensor
-- EC Sensor
-- Soil Moisture Sensor
-- Temperature Sensor
+ESP32
+RS485 Module
+7-in-1 Soil Sensor
   
 ## Development Status
 Soil monitoring system completed
