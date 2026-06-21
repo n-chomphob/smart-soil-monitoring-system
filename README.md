@@ -20,6 +20,10 @@ Data Logging
 CSV Export
 Sensor Stability Verification
 
+## System Architecture
+
+![System Architecture](block_diagram.png)
+
 ## Dashboard
 
 ![Dashboard](dashboard.png)
