@@ -33,6 +33,7 @@ Sensor Stability Verification
 ESP32
 RS485 Module
 7-in-1 Soil Sensor
+Buzzer
   
 ## Development Status
 Soil monitoring system completed
